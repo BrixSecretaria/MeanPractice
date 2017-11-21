@@ -1,0 +1,8 @@
+---
+applications:
+- name: FirstAppNiBrix
+  memory: 512M
+  host: FirstAppNiBrix
+  domain: mybluemix.net
+  services:
+  - ClearDB Managed MySQL Database-bu
